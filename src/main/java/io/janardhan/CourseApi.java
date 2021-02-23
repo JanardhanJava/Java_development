@@ -7,9 +7,7 @@ import org.springframework.boot.diagnostics.FailureAnalyzer;
 @SpringBootApplication
 public class CourseApi {
 
-	public static void main(String[] args) {
-		
-		
+	public static void main(String[] args) {		
 		 SpringApplication.run(CourseApi.class, args);
 		 
 		//Banner off
